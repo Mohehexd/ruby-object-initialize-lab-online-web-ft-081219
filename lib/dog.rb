@@ -23,3 +23,5 @@ end
 #   nil
 # ruby> f4 = Fruit.new
 #   "a ripe apple"
+
+# IT TOOK ME SO LONG TO FIGURE OUT HOW TO SET A DEFAULT VALUE. OMGAWD
